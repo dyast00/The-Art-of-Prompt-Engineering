@@ -9,18 +9,22 @@ This project delves into the concept of prompt engineering, a crucial aspect of 
 - **Program:** IBM Advanced AI
 
 # Table of Contents
+1. Introduction
+2. Importance of Prompt Engineering in AI Tools
+3. Benefits of Prompt Engineering in Business
+4. Prompt Engineering with LLM models like ChatGPT
+5. Prompt Engineering Techniques
+    - Principle 1: Write Clear and Specific Instructions
+    - Principle 2: Give the Model Time to "Think"
+    - Additional Strategies
+6. Python Project: Survival Analysis
+    - Understanding the Concept
+    - Learning the Basics
+    - Python Implementation
+    - Asking Further Questions
+7. Prompt Engineering with Langchain
 
-1. [Introduction](#introduction)
-2. [Importance of Prompt Engineering in AI Tools](#importance-of-prompt-engineering-in-ai-tools)
-3. [Benefits of Prompt Engineering in Business](#benefits-of-prompt-engineering-in-business)
-4. [Prompt Engineering with LLM models like ChatGPT](#prompt-engineering-with-llm-models-like-chatgpt)
-5. [Prompt Engineering Techniques](#prompt-engineering-techniques)
-    - [Principle 1: Write Clear and Specific Instructions](#principle-1-write-clear-and-specific-instructions)
-    - [Principle 2: Give the Model Time to “Think”](#principle-2-give-the-model-time-to-think)
-    - [Additional Strategies](#additional-strategies)
-6. [Python Project: Survival Analysis](#python-project-survival-analysis)
-    - [Understanding the Concept](#understanding-the-concept)
-    - [Learning the Basics](#learning-the-basics)
-    - [Python Implementation](#python-implementation)
-    - [Asking Further Questions](#asking-further-questions)
-7. [Prompt Engineering with Langchain](#prompt-engineering-with-langchain)
+# Objectives
+After completing this lab you will be able to:
+1. Learn to communicate effectively with AI models like ChatGPT.
+2. Gain hands-on experience in prompt engineering in implementing survival analysis in Python.
