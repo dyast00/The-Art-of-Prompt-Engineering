@@ -14,14 +14,14 @@ This project delves into the concept of prompt engineering, a crucial aspect of 
 3. Benefits of Prompt Engineering in Business
 4. Prompt Engineering with LLM models like ChatGPT
 5. Prompt Engineering Techniques
-    - Principle 1: Write Clear and Specific Instructions
-    - Principle 2: Give the Model Time to "Think"
-    - Additional Strategies
+    A. Principle 1: Write Clear and Specific Instructions
+    B. Principle 2: Give the Model Time to "Think"
+    C. Additional Strategies
 6. Python Project: Survival Analysis
-    - Understanding the Concept
-    - Learning the Basics
-    - Python Implementation
-    - Asking Further Questions
+    A. Understanding the Concept
+    B. Learning the Basics
+    C. Python Implementation
+    D. Asking Further Questions
 7. Prompt Engineering with Langchain
 
 ## Objectives
